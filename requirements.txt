@@ -1,0 +1,11 @@
+notebook
+scikit-learn
+pandas
+matplotlib
+numpy
+gensim
+joblib
+nltk
+streamlit
+wordcloud
+-e .
