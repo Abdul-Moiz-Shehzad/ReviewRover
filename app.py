@@ -5,7 +5,7 @@ import joblib
 from sklearn.metrics.pairwise import cosine_similarity
 from utility.functions import *
 
-st.header("ReviewMatch")
+st.header("ReviewRover")
 
 with st.spinner("Loading models and data..."):
     @st.cache_resource
